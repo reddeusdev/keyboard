@@ -15,4 +15,4 @@ Prosta aplikacja która umożliwia sprawdzanie czy danym klawisz na klawiaturze 
 
 ## Demo
 
-Insert gif or link to demo
+ https://reddeusdev.github.io/keyboard/
